@@ -15,7 +15,7 @@ package com.mycompany.testgit;
         System.out.println("Hello World!");
     }
 }
-//testfsdf//
+
 */
 public class Countries {
     public static void main(String[]args){
@@ -25,6 +25,7 @@ public class Countries {
         System.out.println("Insert a country: ");
         country = pais.next();
 
-        System.out.println("the country is: "+country);
+        System.out.println("The country is: "+country);
     }
 }
+//changing the label
