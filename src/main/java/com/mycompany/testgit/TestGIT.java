@@ -9,10 +9,22 @@ package com.mycompany.testgit;
  *
  * @author Angel.Cachi
  */
-public class TestGIT {
+/* public class TestGIT {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
 //testfsdf//
+*/
+public class Countries {
+    public static void main(String[]args){
+        Scanner pais = new Scanner(System.in);
+        String country;
+
+        System.out.println("Insert a country: ");
+        country = pais.next();
+
+        System.out.println("the country is: "+country);
+    }
+}
