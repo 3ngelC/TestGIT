@@ -1,6 +1,6 @@
 package com.mycompany.testgit;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 
 //test colors//
@@ -18,8 +18,9 @@ import java.util.Scanner;
             System.out.println("el color es: "+Color)
         }
     }
-/*
 
+
+/*
 function Color(){
     console.log ("Color")
 }
