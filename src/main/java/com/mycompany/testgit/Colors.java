@@ -15,7 +15,7 @@ import java.util.Scanner;
             System.out.println("Insert a color: ");
             Color = entrada.next();
 
-            System.out.println("el color es: "+Color);
+            System.out.println("el color es: "+Color)
         }
     }
 /*
