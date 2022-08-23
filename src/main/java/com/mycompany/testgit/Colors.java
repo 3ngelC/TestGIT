@@ -1,6 +1,6 @@
 package com.mycompany.testgit;
 
-//import java.util.Scanner;
+import java.util.Scanner;
 
 
 //test colors//
@@ -13,9 +13,9 @@ package com.mycompany.testgit;
             String Color;
 
             System.out.println("Insert a color: ");
-            Color = entrada.next();
+            Color = (String)entrada.next();
 
-            System.out.println("el color es: "+Color)
+            System.out.println("el color es: "+Color);
         }
     }
 

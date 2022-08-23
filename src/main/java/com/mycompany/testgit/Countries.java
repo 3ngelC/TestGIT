@@ -17,7 +17,7 @@ package com.mycompany.testgit;
 }
 */
 
-
+import java.util.Scanner;
 public class Countries {
     public static void main(String[]args){
         Scanner pais = new Scanner(System.in);
