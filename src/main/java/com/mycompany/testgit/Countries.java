@@ -10,14 +10,14 @@ package com.mycompany.testgit;
  * @author Angel.Cachi
  */
 /* public class TestGIT {
-
+/**
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
-
-
 */
+
+import java.util.Scanner;
 public class Countries {
     public static void main(String[]args){
         Scanner pais = new Scanner(System.in);
@@ -30,4 +30,4 @@ public class Countries {
     }
 }
 //changing the label
-
+//adding a comment

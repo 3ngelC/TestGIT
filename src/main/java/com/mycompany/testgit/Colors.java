@@ -13,13 +13,14 @@ import java.util.Scanner;
             String Color;
 
             System.out.println("Insert a color: ");
-            Color = entrada.next();
+            Color = (String)entrada.next();
 
             System.out.println("el color es: "+Color);
         }
     }
-/*
 
+
+/*
 function Color(){
     console.log ("Color")
 }
@@ -34,3 +35,4 @@ function Color(){
 second change update
  */
 
+//adding comment2-1
